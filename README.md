@@ -164,6 +164,24 @@ haftalik-rapor-botu/
 
 *Note: The `.env`, `credentials.json`, and `token.json` files are excluded from the GitHub repository through `.gitignore`. `main.py` is used as an example main file name.*
 
+
+## Screenshots & Workflow
+
+### 1. Starting the Bot (`/start`)
+![Start Command](screenshots/1-start.png)
+
+### 2. Interactive Weekly Q&A Session (`/yenirapor`)
+![Conversation Flow](screenshots/2-conversation.png)
+
+### 3. Automated Word Generation & Google Drive Upload
+![Bot Response](screenshots/3-bot-response.png)
+
+### 4. AI-Refined Formatted Word (`.docx`) Report
+![Word Output](screenshots/4-word-output.png)
+
+### 5. Google Drive Archive
+![Google Drive](screenshots/5-google-drive.png)
+
 ## Security
 
 - API keys are stored in the `.env` file.
